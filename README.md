@@ -58,8 +58,8 @@ python main.py
 
 ## Built With
 
-* [Tensorflow](http://www.tensorflow.com) - Deep Leaning Framwork
-* [Scipy](https://maven.scipy.org/) - Math :)
-* [Audio](https://rometools.github.io/pyaudio/) - Audio Processing 
+* [Tensorflow](http://www.tensorflow.org) - Deep Leaning Framwork
+* [Scipy](https://scipy.org/) - Math :)
+* [Audio](http://people.csail.mit.edu/hubert/pyaudio/docs/) - Audio Processing 
 
 
