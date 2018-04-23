@@ -6,7 +6,7 @@ End-to-End Automatic Speech Recognition
 
 This model is based on the state of the art end-to-end speech recognotion system by google reseach. But rather just havig a single network approach, it has multiple pipeline and an end search algorithm to choose the appropriate phenomes.
 
-![model architecture](https://raw.github.com/golu-golu/speechnet/blob/master/images/architecture.png)
+![model architecture](https://github.com/golu-golu/speechnet/blob/master/images/architecture.png)
 
 ## Getting Started
 
