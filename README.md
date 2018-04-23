@@ -55,19 +55,11 @@ To run automated test run with
 python main.py
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 
 ## Built With
 
-* [Tensorflow](http://www.dropwizard.io/1.0.2/docs/) - Deep Leaning Framwork
-* [Scipy](https://maven.apache.org/) - Math :)
-* [Audio](https://rometools.github.io/rome/) - Audio Processing 
+* [Tensorflow](http://www.tensorflow.com) - Deep Leaning Framwork
+* [Scipy](https://maven.scipy.org/) - Math :)
+* [Audio](https://rometools.github.io/pyaudio/) - Audio Processing 
 
 
