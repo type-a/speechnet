@@ -41,6 +41,8 @@ def process(input_filename,pre_emphasis = 0.97,frame_size = 0.025,frame_stride =
     filter_banks = 20 * numpy.log10(filter_banks)
     return filter_banks
 
+
+######### only test -- to be removed ...
 import matplotlib.pyplot as plt
 print(process('LDC93S1.wav'))
 fig = plt.figure(figsize=(10, 6))
