@@ -1,6 +1,6 @@
 # SpeechNET
 
-End-to-End Automatic Speech Recognition 
+End-to-End Automatic Speech Recognition (Taken down unntil research is completed)
 
 ## Architecture 
 
